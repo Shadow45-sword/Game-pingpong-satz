@@ -15,9 +15,9 @@ dua pemain dapat bermain bersama di satu komputer. Pemain menggerakkan raket unt
  pemain 1 (raket kiri)
  - w - Naik
  - s - Turun
-   Pemain 2 (raket kanan)
-   -UP arrow - Naik
-   Down arrow - turun
+ Pemain 2 (raket kanan)
+ - UP arrow - Naik
+ - Down arrow - turun
 
    # Intalasi dan cara baca main
    1. pastikan python3 sudah terinstal
